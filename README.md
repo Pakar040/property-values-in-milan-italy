@@ -1,1 +1,1 @@
-![map-screenshot.png]()
+![Screenshot of map](map-screenshot.png)
