@@ -1,1 +1,1 @@
-![Uploading image.png…]()
+![map-screenshot.png]()
